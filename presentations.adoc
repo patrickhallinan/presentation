@@ -1,0 +1,26 @@
+= presentations
+
+== options
+
+There are several free HTML presentation generators available that you can use to create engaging and dynamic presentations. Here are some notable options:
+
+1. **Reveal.js** - An open-source HTML presentation framework. It allows you to create beautiful presentations for free using open web technologies. You can add styles with CSS, include external web pages, and use JavaScript for custom behavior.
+
+2. **Impress.js** - Similar to Reveal.js, Impress.js is another open-source tool that uses CSS3 transforms and transitions to create presentations. It's lightweight and doesn't depend on external stylesheets.
+
+3. **Slides** - An online tool that lets you create presentations directly in your browser. While it's primarily designed for creating slides, you can export presentations to HTML for web viewing.
+
+4. **Deck.js** - One of the earlier HTML5 presentation systems, Deck.js provides a simple way to create presentations with semantic HTML. It offers a clean look and supports extensions for added functionality.
+
+5. **Shower** - A presentation tool by Vadim Makeev from Opera Software. It's straightforward to use but requires a bit of HTML knowledge due to its structure.
+
+6. **Tome AI** - While primarily known for its AI features, Tome offers tools for creating presentations which can be customized with HTML. It's user-friendly and integrates well with various collaborative platforms.
+
+7. **S5** - A Simple Standards-Based Slide Show System. S5 is minimalistic and uses XHTML and CSS for creating slides.
+
+8. **GitPitch** - Although more geared towards developers, GitPitch allows you to create presentations directly from markdown files hosted on GitHub, GitLab, or Bitbucket, which then get rendered as HTML.
+
+9. **Landslide** - A command-line tool that converts files formatted with Markdown, reStructuredText, or Textile into HTML presentations based on Google’s HTML5 slides template.
+
+10. **Hacker Slides** - This tool can be run on your desktop or server, offering a way to create presentations if you're using platforms like Sandstorm.
+

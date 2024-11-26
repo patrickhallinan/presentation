@@ -1,0 +1,16 @@
+= reveal.js
+
+https://revealjs.com
+
+== starting
+
+[source,bash]
+----
+
+# defaults to port 8000
+cd <reveal.js directory>
+npm start
+
+# set to different port
+npm start -- --port=8001
+----
