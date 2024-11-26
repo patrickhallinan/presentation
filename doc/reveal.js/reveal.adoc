@@ -1,0 +1,37 @@
+= reveal.js
+
+https://revealjs.com
+
+
+== new presentation
+
+
+=== clone repo
+
+git submodule add https://github.com/hakimel/reveal.js.git <dir>
+
+
+=== build repo
+
+cd <reveal.js directory>
+npm build
+
+
+=== start server
+
+[source,bash]
+----
+
+# defaults to port 8000
+npm start
+
+# set to different port
+npm start -- --port=8001
+----
+
+
+=== stop server
+
+----
+CTRL-C
+----
